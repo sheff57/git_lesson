@@ -3,5 +3,11 @@ def my_square(y):
 	added more documentation
 	"""
 	return(y**2)
-print(my_square(42))
 
+def my_square2(x):
+	"""uses the * operator
+	"""
+	return(x*x)
+
+print(my_square(42))
+print (My_square2(42)
