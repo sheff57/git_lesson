@@ -1,2 +1,2 @@
 #Documentation
-THis folder contains documentation.
+This folder contains documentation.
