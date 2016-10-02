@@ -11,6 +11,7 @@ def my_square2(x):
 	"""uses the * operator
 	"""
 	return(x*x)
-
+	"""more extraneous comments here
+	"""
 print(my_square(42))
 print (My_square2(42)
