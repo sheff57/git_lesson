@@ -1,2 +1,3 @@
-this folder contains output files
+#Output Folder
+This folder contains the output files
 
